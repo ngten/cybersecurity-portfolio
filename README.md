@@ -2,8 +2,6 @@
 
 Bachelor of Applied Cybersecurity student at the SANS Technology Institute. GIAC GCIH, GSEC and GFACT certified, plus CompTIA Security+ and Network+.
 
-[LinkedIn](https://linkedin.com/in/ngartenberg)
-
 ## About me
 
 I got into security from the IT side. For close to four years I was the only IT and security person at a live-events company, which meant I was the one setting up MFA, patching devices, and keeping the payment network separate from guest Wi-Fi. Nobody was checking my work, so I started studying to find out what I was getting wrong. That led to the CompTIA certs, then the SANS program, then the GIAC exams.
